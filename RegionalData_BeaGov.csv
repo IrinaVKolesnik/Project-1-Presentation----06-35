@@ -1,0 +1,19 @@
+"SA1 Personal Income Summary: Personal Income, Population, Per Capita Personal Income",,,,,,,,
+Percent change from preceding period ,,,,,,,,
+Bureau of Economic Analysis ,,,,,,,,
+State or DC,,,,,,,,
+GeoFips,GeoName,LineCode,Description,2011-2012,2012-2013,2013-2014,2014-2015,2015-2016
+6000,California,1,Personal income (thousands of dollars),6.4,1.3,6.7,7.4,3.7
+6000,California,2,Population (persons) 1/,0.9,0.9,0.9,0.9,0.7
+6000,California,3,Per capita personal income (dollars) 2/,5.5,0.4,5.7,6.5,3
+36000,New York,1,Personal income (thousands of dollars),6.3,1.8,3.5,4.2,1.7
+36000,New York,2,Population (persons) 1/,0.5,0.4,0.3,0.2,0.1
+36000,New York,3,Per capita personal income (dollars) 2/,5.7,1.3,3.2,3.9,1.7
+48000,Texas,1,Personal income (thousands of dollars),7.5,2.1,7.6,3.9,0.4
+48000,Texas,2,Population (persons) 1/,1.7,1.5,1.8,1.9,1.6
+48000,Texas,3,Per capita personal income (dollars) 2/,5.7,0.5,5.7,2,-1.2
+Legend / Footnotes:,,,,,,,,
+1/ Census Bureau midyear population estimate. Estimates for 2010-2017 reflect Census Bureau midyear state population estimates available as of December 2017.,,,,,,,,
+2/ Per capita personal income is total personal income divided by total midyear population.,,,,,,,,
+Note-- All dollar estimates are in current dollars (not adjusted for inflation).,,,,,,,,
+"Last updated: March 22, 2018-- new estimates for 2017; revised estimates for 2010-2016.",,,,,,,,
